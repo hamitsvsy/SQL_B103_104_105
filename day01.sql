@@ -1,6 +1,6 @@
 -- DDL - DATA DEFINITION LANG.
 -- CREATE - TABLO OLUŞTURMA
-CREATE TABLE ogrenciler
+CREATE TABLE ogrenciler5
 (
 ogrenci_no char(7),
 isim varchar(20),
